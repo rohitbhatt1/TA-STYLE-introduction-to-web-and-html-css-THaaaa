@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+    color:#ffffff;
+}
+
+.heading{
+    font-weight: 900;
+    font-size: 30px;
+}
+.uniq{
+    color: aqua;
+    font-size: 26px;
+}
+.margin{
+    margin-bottom:20px;
+}
+a{
+    color: maroon;
+    text-decoration: none;
+    margin-right: 30px;
+}
